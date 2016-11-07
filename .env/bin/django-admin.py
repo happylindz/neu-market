@@ -1,4 +1,4 @@
-#!/Users/Mac/Github/neu-market/.env/bin/python
+#!/Users/Mac/Github/neu-market/.env/bin/python3.5
 from django.core import management
 
 if __name__ == "__main__":

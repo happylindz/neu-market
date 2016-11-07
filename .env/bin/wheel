@@ -1,4 +1,4 @@
-#!/Users/Mac/Github/neu-market/.env/bin/python
+#!/Users/Mac/Github/neu-market/.env/bin/python3.5
 
 # -*- coding: utf-8 -*-
 import re
