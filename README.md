@@ -2,10 +2,10 @@
 
 ## Dependency:
 
-Node: 6.8.1+ 
-Python: 3.5.0+
+Node: 6.8.1+   
+Python: 3.5.0+  
 
-Node Install: https://nodejs.org/en/download/
+Node Install: https://nodejs.org/en/download/  
 you don't need to install python
 
 ## Start Up:
@@ -25,6 +25,10 @@ npm start (see it in localhost:8080)
 backend:
 
 python ./mysite/manage.py runserver (see it in localhost:8000)
+
+**Attention:**
+
+some comments on the code as you can see as well as code styles. 
 
 
 
