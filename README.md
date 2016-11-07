@@ -26,9 +26,16 @@ backend:
 
 python ./mysite/manage.py runserver (see it in localhost:8000)
 
+## Windows Attention
+
+after the "npm install" command
+
+winenv/Scripts/activate (only this command is changed)
+
 **Attention:**
 
 some comments on the code as you can see as well as code styles. 
+
 
 
 
